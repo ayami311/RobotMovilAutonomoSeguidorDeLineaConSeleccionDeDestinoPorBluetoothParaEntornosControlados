@@ -26,6 +26,6 @@ graph TD
     end
     
     subgraph Usuario
-        G[Aplicación Android] --> F
+        G[Aplicación] --> F
         H[Auriculares Bluetooth] --> F
     end
